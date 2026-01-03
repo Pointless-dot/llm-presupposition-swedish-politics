@@ -1,4 +1,4 @@
-# Data for: False Presuppositions and Large Language Models
+# Data for: POLITICIANS DANCING ON TABLES
 
 This repository contains the experimental stimuli, model response annotations, and analysis files
 used in the bachelor thesis:
