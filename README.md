@@ -22,3 +22,5 @@ used in the bachelor thesis:
 
 All stimuli were tested once per model.
 The dataset is provided for transparency and reproducibility.
+
+Credit and blame: Liam Hultelid
