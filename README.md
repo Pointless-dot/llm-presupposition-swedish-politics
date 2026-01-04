@@ -17,10 +17,16 @@ used in the bachelor thesis:
   - data_chatgpt51.jasp: JASP file containing all statistical analyses or Chat GPT5.1
   - data_gemini25.jasp: JASP file containing all statistical analyses for Gemini 2.5 Flash
   - data_deepseekv32.JASP: JASP file containing all statistical analyses for DeepSeek v3.2
+  
+  - data_allmodels.pdf: PDF file containing JASP analysis for cross model comparison
+  - data_chatgpt51.pdf: PDF file containing JASP analysis for Chat GPT5.1
+  - data_gemini25.pdf: PDF file containing JASP analysis for Gemini 2.5 Flash
+  - data_deepseekv32.pdf: PDF file containing JASP analysis for DeepSeek v3.2
 
 ## Notes
 
 All stimuli were tested once per model.
 The dataset is provided for transparency and reproducibility.
+JASP data also available as .pdf
 
 Credit and blame: Liam Hultelid
